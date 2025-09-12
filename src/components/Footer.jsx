@@ -96,16 +96,16 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-primary" />
                 <span className="text-muted-foreground text-sm">
-                  123 Heritage Lane, Cultural District, City
+                  40500, 1306 Henri Gardens and Cultural Heritage Nyamira District, Kenya
                 </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-primary" />
-                <span className="text-muted-foreground text-sm">+1 (555) 123-4567</span>
+                <span className="text-muted-foreground text-sm">+254 785259515</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-primary" />
-                <span className="text-muted-foreground text-sm">info@henribomaresort.com</span>
+                <span className="text-muted-foreground text-sm">henriresort@gmail.com</span>
               </div>
             </div>
           </div>

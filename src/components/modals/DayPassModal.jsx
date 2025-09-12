@@ -203,7 +203,7 @@ const DayPassModal = ({ isOpen, onClose, experience }) => {
               onChange={handleInputChange}
               required
               className="w-full px-3 py-2 border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent bg-background"
-              placeholder="+1 (555) 123-4567"
+              placeholder="+254 785259515"
             />
           </div>
 

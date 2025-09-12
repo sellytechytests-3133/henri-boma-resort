@@ -100,7 +100,7 @@ const ContactSection = () => {
                     value={formData.phone}
                     onChange={handleInputChange}
                     className="w-full px-4 py-3 border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent bg-background"
-                    placeholder="+1 (555) 123-4567"
+                    placeholder="+254 785259515"
                   />
                 </div>
                 <div>
@@ -174,7 +174,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-1">Phone</h4>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+254 785259515</p>
                     <p className="text-sm text-muted-foreground">Available 24/7</p>
                   </div>
                 </div>
@@ -185,7 +185,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-1">Email</h4>
-                    <p className="text-muted-foreground">info@henribomaresort.com</p>
+                    <p className="text-muted-foreground">henriresort@gmail.com</p>
                     <p className="text-sm text-muted-foreground">We'll respond within 24 hours</p>
                   </div>
                 </div>
