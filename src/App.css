@@ -126,7 +126,7 @@ html {
 }
 
 .hero-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://thehenriboma.com/media/showcase.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://media.thehenriboma.com/showcase.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
