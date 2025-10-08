@@ -161,9 +161,9 @@ const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold mb-1">Address</h4>
                     <p className="text-muted-foreground">
-                      123 Heritage Lane<br />
-                      Cultural District, City<br />
-                      State 12345, Country
+                      40500, 1306<br />
+                      Henri Gardens and Cultural Heritage <br />
+                      Nyamira District, Kenya
                     </p>
                   </div>
                 </div>
